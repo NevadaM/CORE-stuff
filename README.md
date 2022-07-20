@@ -8,3 +8,5 @@
 
 
 Primarily using IPython widgets
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NevadaM/CORE-stuff/main?urlpath=voila%2Frender%2Fquestions.ipynb)
