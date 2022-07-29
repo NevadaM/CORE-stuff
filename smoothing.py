@@ -15,7 +15,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 INCOME_PER_PERIOD = 100
-R = 0.01 ##do this as a float - e.g. if 1%, write 0.01
+R = 0.00 ##do this as a float - e.g. if 1%, write 0.01
 DELTA = 0.01 ## same here
 PERIODS = 10
 ASSETS = 0
