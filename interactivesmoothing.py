@@ -92,6 +92,7 @@ class InteractiveSmoothing:
                     plt.plot([index+1, index+1], [self.initialincomepath[index], self.unexpected[index+1]], c='gray')
                     if index != len(self.consumptionpath) - 2:
                         plt.plot([index+2, index+2], [self.initialincomepath[index+2], self.unexpected[index+1]], c='gray')
+                        plt.plot([index+2, index+2], [self.initialincomepath[index+3], self.unexpected[index+1]], c='gray')
 
             if index != (len(self.consumptionpath) - 1):
                # plt.plot([index+1, index+1], [self.expectedincomepath[index], self.expectedincomepath[index+1]], c='gray')
