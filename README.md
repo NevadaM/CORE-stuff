@@ -7,6 +7,9 @@
 
 
 Primarily using IPython widgets
+## Inflation Example Notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NevadaM/CORE-stuff/main?urlpath=voila%2Frender%2Finteractivepolicy.ipynb)
+
 
 ## Inflation Game
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NevadaM/CORE-stuff/main?urlpath=voila%2Frender%2Fgame.ipynb)
@@ -19,11 +22,6 @@ Primarily using IPython widgets
 * just change questions.csv to any csv in the same format
 * I might change this from csv to maybe JSON
 
-## Inflation Example Notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NevadaM/CORE-stuff/main?urlpath=voila%2Frender%2Finflation.ipynb)
-* an example of what the best interactive notebook would look like
-* with latex, interactive charts, the game + questions
-* and obvously videos and textbook excerpts
 
 ## Optimal Smoothing
 [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NevadaM/CORE-stuff/main?urlpath=voila%2Frender%2Fsmoothing.ipynb)
