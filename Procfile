@@ -1,1 +1,1 @@
-web: py -m voila  --port=8866 --no-browser --Voila.ip=0.0.0.0 --preheat_kernel=True --pool_size=10 interactivepolicy.ipynb
+web: voila  --port=8866 --no-browser --Voila.ip=0.0.0.0 --preheat_kernel=True --pool_size=10 interactivepolicy.ipynb
